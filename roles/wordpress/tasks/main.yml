@@ -1,6 +1,0 @@
----
-# tasks file for wordpress
-- include: postgresql.yml
-- include: apache.yml
-- include: php.yml
-- include: wordpress.yml
