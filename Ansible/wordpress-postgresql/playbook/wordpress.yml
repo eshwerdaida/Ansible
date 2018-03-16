@@ -1,0 +1,6 @@
+---
+- name: Install and Configuring Word press on CentOS
+  hosts: wordpress
+  roles:
+  - common
+  - wordpress
